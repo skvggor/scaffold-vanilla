@@ -1,19 +1,14 @@
 {
-  "name": "scaffold",
-  "description": "A scaffold for websites",
+  "name": "scaffold-vanilla",
+  "description": "A scaffold for websites for those using vanilla JavaScript",
   "author": "Marcos Garcia Marcker",
   "version": "0.1.0",
-  "homepage": "https://github.com/marcker/scaffold",
+  "homepage": "https://github.com/marcker/scaffold-vanilla",
   "devDependencies": {
     "axis": ">=0.3.0",
-    "coffee-script": ">=1.8.0",
-    "docco": ">=0.6.3",
     "gulp": ">=3.8.10",
-    "gulp-coffee": ">=2.2.0",
-    "gulp-coffeelint": ">=0.4.0",
     "gulp-concat": ">=2.4.1",
     "gulp-connect": ">=2.0.6",
-    "gulp-docco": ">=0.0.4",
     "gulp-htmlclean": ">=2.2.3",
     "gulp-imagemin": ">=1.2.1",
     "gulp-minify-css": ">=0.3.11",
@@ -26,6 +21,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/marcker/scaffold"
+    "url": "https://github.com/marcker/scaffold-vanilla"
   }
 }
